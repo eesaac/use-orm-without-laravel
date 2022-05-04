@@ -1,0 +1,10 @@
+/vendor/
+storage/*.key
+.env
+.phpunit.result.cache
+.idea
+/database/data
+.Dockerignore
+/docker/*
+/srv/*
+docker-compose.yml
